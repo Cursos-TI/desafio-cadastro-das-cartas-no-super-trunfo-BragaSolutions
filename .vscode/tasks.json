@@ -22,6 +22,15 @@
                 "isDefault": true
             },
             "detail": "Tarefa gerada pelo Depurador."
+        },
+        {
+            "type": "cppbuild",
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": "build",
+            "label": "C/C++: clang arquivo de build ativo",
+            "detail": "compilador: /usr/bin/clang"
         }
     ],
     "version": "2.0.0"
